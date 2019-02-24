@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:19:1-49:12
+INJECTED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:19:1-49:12
+INJECTED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:19:1-49:12
+INJECTED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:19:1-49:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c6069a5ba0efa7b0b22d3ce27094cbc2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-v13-28.0.0.aar\b8163bf92b78654d983aad679c9b04f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\791d6b379c748f8b110d82cc59eab720\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\83ce32d9abcc17c9506610d001da88ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a8ef07d7ed8d1d7aa3149afa08f626e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\998a5ba89ada33afb92e6464bd9c0a9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bdd6acd6dc6663e3983ffe81ff9bcd45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7faae24e4e6a25de13d225fd88d5dfaa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3b537292cb222c0c43fa3ef17eff3b7c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\ee8551398de9b38e079f0679429e7d4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\87be3cbbb9b672e930fccd9225c83535\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\049585ba6cbfe398b201606902b4ef48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\88db41976f64fb9643a2c14194615200\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6bada5ca3d39faa7c5c4386da4918dd1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a34dfc1f571202d1b91ce00389f64624\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\d796a1061beed981f7382cb02a7c8d13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a048bb54f451f9024c77021aada1b1bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7eb917cefc8b3facbba6896938f33f68\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a7725ded5c9da6a6f2d849bd9d575dfa\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\5981736ce176b3ac04b37675ab9c8f25\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\386f50da9fb930d0ab248efcec3b9ddd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ed41b8740b3df93c55d697dfc8036fdd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\6b40b37a4c1b3a036e73e1a439f258ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\5cb4e751a39d9c63818879263e2b36d8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\bba9b1e81100cea60bf02258499464fa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\91d2952877b8adf888af3a279b830d0b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9360412835ea0d3c6097f0bd99d748d0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2261afbd108bb85d72cff4d6adca74e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\28a58f9f5e902a0ad0592519390c1da9\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:19:1-49:12
+INJECTED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:19:1-49:12
+INJECTED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:19:1-49:12
+	package
+		ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:19:11-51
+		INJECTED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml
+		INJECTED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml
+		ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:19:1-49:12
+		INJECTED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml
+		ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:19:1-49:12
+		INJECTED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:20:5-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:22:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:23:22-78
+application
+ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:25:5-48:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7eb917cefc8b3facbba6896938f33f68\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7eb917cefc8b3facbba6896938f33f68\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a7725ded5c9da6a6f2d849bd9d575dfa\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a7725ded5c9da6a6f2d849bd9d575dfa\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7eb917cefc8b3facbba6896938f33f68\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:27:9-42
+	android:icon
+		ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:26:9-43
+activity#com.example.android.dragsource.MainActivity
+ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:28:9-33:20
+	android:name
+		ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:28:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:31:27-74
+provider#android.support.v4.content.FileProvider
+ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:38:9-46:20
+	android:grantUriPermissions
+		ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:42:13-47
+	android:authorities
+		ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:40:13-78
+	android:exported
+		ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:39:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:43:13-45:54
+	android:resource
+		ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:45:17-51
+	android:name
+		ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml:44:17-67
+uses-sdk
+INJECTED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml
+INJECTED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c6069a5ba0efa7b0b22d3ce27094cbc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c6069a5ba0efa7b0b22d3ce27094cbc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-v13-28.0.0.aar\b8163bf92b78654d983aad679c9b04f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-v13-28.0.0.aar\b8163bf92b78654d983aad679c9b04f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\791d6b379c748f8b110d82cc59eab720\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\791d6b379c748f8b110d82cc59eab720\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\83ce32d9abcc17c9506610d001da88ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\83ce32d9abcc17c9506610d001da88ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a8ef07d7ed8d1d7aa3149afa08f626e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a8ef07d7ed8d1d7aa3149afa08f626e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\998a5ba89ada33afb92e6464bd9c0a9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\998a5ba89ada33afb92e6464bd9c0a9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bdd6acd6dc6663e3983ffe81ff9bcd45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bdd6acd6dc6663e3983ffe81ff9bcd45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7faae24e4e6a25de13d225fd88d5dfaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7faae24e4e6a25de13d225fd88d5dfaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3b537292cb222c0c43fa3ef17eff3b7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3b537292cb222c0c43fa3ef17eff3b7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\ee8551398de9b38e079f0679429e7d4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\ee8551398de9b38e079f0679429e7d4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\87be3cbbb9b672e930fccd9225c83535\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\87be3cbbb9b672e930fccd9225c83535\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\049585ba6cbfe398b201606902b4ef48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\049585ba6cbfe398b201606902b4ef48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\88db41976f64fb9643a2c14194615200\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\88db41976f64fb9643a2c14194615200\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6bada5ca3d39faa7c5c4386da4918dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6bada5ca3d39faa7c5c4386da4918dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a34dfc1f571202d1b91ce00389f64624\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a34dfc1f571202d1b91ce00389f64624\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\d796a1061beed981f7382cb02a7c8d13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\d796a1061beed981f7382cb02a7c8d13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a048bb54f451f9024c77021aada1b1bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a048bb54f451f9024c77021aada1b1bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7eb917cefc8b3facbba6896938f33f68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7eb917cefc8b3facbba6896938f33f68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a7725ded5c9da6a6f2d849bd9d575dfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a7725ded5c9da6a6f2d849bd9d575dfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\5981736ce176b3ac04b37675ab9c8f25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\5981736ce176b3ac04b37675ab9c8f25\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\386f50da9fb930d0ab248efcec3b9ddd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\386f50da9fb930d0ab248efcec3b9ddd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ed41b8740b3df93c55d697dfc8036fdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ed41b8740b3df93c55d697dfc8036fdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\6b40b37a4c1b3a036e73e1a439f258ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\6b40b37a4c1b3a036e73e1a439f258ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\5cb4e751a39d9c63818879263e2b36d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\5cb4e751a39d9c63818879263e2b36d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\bba9b1e81100cea60bf02258499464fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\bba9b1e81100cea60bf02258499464fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\91d2952877b8adf888af3a279b830d0b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\91d2952877b8adf888af3a279b830d0b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9360412835ea0d3c6097f0bd99d748d0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9360412835ea0d3c6097f0bd99d748d0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2261afbd108bb85d72cff4d6adca74e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2261afbd108bb85d72cff4d6adca74e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\28a58f9f5e902a0ad0592519390c1da9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\JoshuaWong\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\28a58f9f5e902a0ad0592519390c1da9\AndroidManifest.xml:20:5-44
+INJECTED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml
+INJECTED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml
+		ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml
+		INJECTED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml
+		ADDED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml
+		INJECTED from C:\WorkSpace\AndroidStudio\DragAndDropDemo\DragSource\src\main\AndroidManifest.xml
